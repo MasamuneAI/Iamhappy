@@ -1,0 +1,14 @@
+<html>
+ <head>
+ <title> Навчальний файл Html> </title>
+ <meta charset =UTF-8>
+ </head>
+ <body>
+         <P ALIGN="CENTER">
+		 <FONT COLOR="#008080" SIZE="7">
+		 <b>РОЗКЛАД</B></FONT><BR>
+		 <FONT SIZE="6"><I> ЗАНЯТЬ НА ВИВТОРОК </I>
+		 </FONT>
+		 </P>
+  </body>
+  </html>

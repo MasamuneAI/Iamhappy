@@ -1,0 +1,9 @@
+<html>
+ <head>
+ <title> Навчальний файл Html>
+ <meta charset =UTF-8>
+ </head>
+ <body>
+  Розклад занять на вивторок
+  </body>
+  </html>
